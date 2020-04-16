@@ -56,9 +56,9 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•--------KAMINA----•◈•
 |__~~~\ •◈•----------HACKER----•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Adeeb
-\033[1;96mInstagram \033[1;93m: \033[1;FlowRana Ali
-\033[1;96mFacebook  \033[1;93m: \033[1; hackerali007
+\033[1;96mAuthor  \033[1;93m: \033[1;92m Rana Adeeb
+\033[1;96mInstagram \033[1;93m: \033[1;Fulow Rana Ali
+\033[1;96mFacebook  \033[1;93m: \033[1;  Hackerali007
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ikramali99/jiggers
 \033[1;91m======================================="""
 
@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Aahil
-\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Aahilrana4072
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mAuthor  \033[1;93m: \033[1;92mRana Adeeb
+\033[1;96mInstagram \033[1;93m: \033[1;92mFlowRana Ali
+\033[1;96mFacebook  \033[1;93m: \033[1;92m  Hackerali007
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ikramali99/jiggers
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
